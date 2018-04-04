@@ -79,11 +79,12 @@ const shop = {
   baseUOL: "in",
   unitsOfLength: [{
     uol: "in",
-    label: "Inches",
-    default: true
+    label: "Inches"
+    
   }, {
     uol: "cm",
-    label: "Centimeters"
+    label: "Centimeters",
+    default: true
   }, {
     uol: "ft",
     label: "Feet"
@@ -91,8 +92,7 @@ const shop = {
   baseUOM: "oz",
   unitsOfMeasure: [{
     uom: "oz",
-    label: "Ounces",
-    default: true
+    label: "Ounces"
   }, {
     uom: "lb",
     label: "Pounds"
@@ -101,7 +101,8 @@ const shop = {
     label: "Grams"
   }, {
     uom: "kg",
-    label: "Kilograms"
+    label: "Kilograms",
+    default: true
   }],
   layout: [{
     layout: "coreLayout",

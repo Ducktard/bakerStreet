@@ -22,7 +22,7 @@
         }
       },
       "checkoutPayment": {
-        "addPaymentToCompleteOrder": "In Zahlungsauftrag abzuschließen",
+        "addPaymentToCompleteOrder": "Fügen Sie eine Zahlungsmethode hinzu um den Kauf abzuschließen",
         "processingError": "Es gab ein Problem mit Ihrer Zahlung.",
         "completeYourOrder": "Ergänzen Sie Ihre Bestellung",
         "noPaymentMethods": "Keine Zahlungsmethoden konfiguriert sind.",

@@ -3186,8 +3186,8 @@
   "baseUOM": "oz",
   "unitsOfMeasure": [{
     "uom": "oz",
-    "label": "Ounces",
-    "default": true
+    "label": "Ounces"
+    
   }, {
     "uom": "lb",
     "label": "Pounds"
@@ -3196,7 +3196,8 @@
     "label": "Grams"
   }, {
     "uom": "kg",
-    "label": "Kilograms"
+    "label": "Kilograms",
+    "default": true
   }],
   "addressBook": [{
     "company": "Reaction Commerce",

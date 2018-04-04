@@ -13,6 +13,7 @@
 *.sublime-project
 *.sublime-workspace
 
+.meteor
 lib-cov
 logs
 node_modules
